@@ -1,7 +1,7 @@
 ## Hi there fellas 👋
 I'm **M. Irsyad Triananda**, an Informatics student at [Telkom University](https://telkomuniversity.ac.id/). Still exploring different areas in tech and figuring things out as I go.  
 
-I’m interested in **game development** and **3D modeling**—whether it’s in **Blender** or **AutoCAD**, I enjoy bringing ideas to life in 3D. I also like building stuff, learning new things, and occasionally breaking things in the process.  
+I’m interested in **game development** and **3D modeling**—whether it’s in **Blender** or **AutoCAD**, I enjoy bringing ideas to life in 3D. I also like building stuff, learning new things, and occasionally making things that no human can describe in the process.  
 
 Feel free to check out my projects or connect with me on [LinkedIn](#).  
 
